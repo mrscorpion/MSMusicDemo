@@ -1,9 +1,9 @@
 //
 //  XXMusicimgaeView.m
-//  LZXMusicPlayer
+//  mr.scorpionMusicPlayer
 //
 //  Created by mr.scorpion on 16/6/28.
-//  Copyright © 2016年 LZX. All rights reserved.
+//  Copyright © 2016年 mr.scorpion. All rights reserved.
 //
 
 #import "XXMusicimgaeView.h"
