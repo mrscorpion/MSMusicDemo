@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>一千年以后</string>
+		<key>filename</key>
+		<string>309769.mp3</string>
+		<key>lrcname</key>
+		<string>309769.lrc</string>
+		<key>singer</key>
+		<string>林俊杰</string>
+		<key>singerIcon</key>
+		<string>jj_icon.png</string>
+		<key>icon</key>
+		<string>jj.jpg</string>
+	</dict>
+</array>
+</plist>
